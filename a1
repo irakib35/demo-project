@@ -6,3 +6,4 @@ git config --global user.name {my name}
 4. git add a1
 5. git commit -m "Add a1"
 6. git remote add origin <repositoty link>
+7. 
